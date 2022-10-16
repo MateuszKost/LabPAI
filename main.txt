@@ -1,6 +1,7 @@
 develop commit
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 feature3 commit
 feature_1 commit
 =======
@@ -8,4 +9,8 @@ feature2 commit
 >>>>>>> feature_2
 =======
 feature3 commit2
+>>>>>>> feature_3
+=======
+feature3 commit2
+feature3 commitnowy bo nie dziala
 >>>>>>> feature_3
