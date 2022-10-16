@@ -1,2 +1,3 @@
 develop commit
 feature3 commit2
+feature3 commitnowy bo nie dziala
